@@ -11,7 +11,7 @@ const FeedbackApp = () => {
     return (
         <div className="container">
             {/* Logo */}
-            <img src="assets/logo.png" alt="Company Logo" className="logo" />
+            <img src="logo.png" alt="Company Logo" className="logo" />
 
             <h1>Leave Us Feedback</h1>
             <p>Please choose a platform to leave your feedback:</p>
